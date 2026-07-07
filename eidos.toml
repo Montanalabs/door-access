@@ -1,0 +1,7 @@
+name = "door-access"
+version = "0.1.0"
+description = "Door-access agent"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
